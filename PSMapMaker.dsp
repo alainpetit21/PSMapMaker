@@ -192,7 +192,7 @@ SOURCE=.\res\Toolbar.bmp
 # End Group
 # Begin Source File
 
-SOURCE=.\ReadMe.txt
+SOURCE=.\README.md
 # End Source File
 # End Target
 # End Project
